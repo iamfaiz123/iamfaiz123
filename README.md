@@ -1,7 +1,10 @@
-Hey there!! Greetings.
-i am Faizal , a graduate(2022) currently employed in Cognizant as program analyst trainee.
+Hey there!! Greetings :wave:
+
+i am Faizal , a graduate(2022) currently employed in Cognizant as program analyst trainee :trollface:
+
 what i do?
-well in my free time i solve questions on leetcode and awaits competition on codecheff :yum: /n
-Technologies that i am  interested in are blockchain and Mern stack.
+well in my free time i solve questions on leetcode and awaits competition on codecheff :yum: 
+
+Technologies that i am  interested in are blockchain and Mern stack :star:
 i have projects related to mern stack in my repo.
 
