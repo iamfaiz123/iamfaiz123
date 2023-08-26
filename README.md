@@ -1,5 +1,4 @@
-<h3 align="center">Hello, I'm a young rust developer. I work on Actix-backend.
-Additionally, I'm working on smart contracts in rust-based DSL languages in the blockchain realm.</h3>
+<h3 align="center"Hey there , myself Faizal. backend developer ( Rust & Go ) . I am acquitted with all the backend required tool </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
