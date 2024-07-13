@@ -1,6 +1,6 @@
-![Kamil Dziedzic](src/img/selfie/2022.png "Kamil Dziedzic")
+![Faizal khan](src/img/selfie/faizal.jpg "Faizal khan")
 
-# Kamil Dziedzic
+# Faizal khan
 
 **Go Developer** and **IT Manager**, former PHP and Angular Developer aspiring to become proper ***Software Engineer***.
 
