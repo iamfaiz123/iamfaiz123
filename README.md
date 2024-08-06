@@ -5,7 +5,7 @@
 
 I'm looking for opportunities to widen my knowledge, experience and expertise in software development alongside with a steady source of income to pursue my dream of building apps for the future.
 
-Feel free to contact me via email [faizalkhn98641@gmail.com](mailto:faizalkhn98641@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizal-khan-9691ba192/)
+Feel free to contact me via email [faizalkhn98641@gmail.com](mailto:faizalkhn98641@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizal-039b7324b/)
 
 ## What can I offer?
 
@@ -53,7 +53,7 @@ Great! Please contact me via email [faizal98641@gmail.com](mailto:faizal98641@gm
 
 You might also try to check some of my online profiles:
   
-* [LinkedIn](https://www.linkedin.com/in/faizal-khan-9691ba192/)
+* [LinkedIn](https://www.linkedin.com/in/faizal-039b7324b/)
 
 
 
