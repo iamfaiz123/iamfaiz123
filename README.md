@@ -1,4 +1,3 @@
-![Faizal khan](src/img/selfie/faizal.jpg "Faizal khan")
 
 # Faizal khan
 
