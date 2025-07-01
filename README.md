@@ -5,7 +5,7 @@
 
 I'm looking for opportunities to widen my knowledge, experience and expertise in software development alongside with a steady source of income to pursue my dream of building apps for the future.
 
-Feel free to contact me via email [faizalkhn98641@gmail.com](mailto:faizalkhn98641@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizal-039b7324b/)
+
 
 Also Dont look at my github contribution , i am employed person i rather spend time creating scripts and lib for my employers 
 
