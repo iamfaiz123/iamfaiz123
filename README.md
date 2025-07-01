@@ -13,9 +13,9 @@ Also Dont look at my github contribution , i am employed person i rather spend t
 
 * Open mind.
 * Dedication to learn.
-* 3+ years experience in Web App and API Development, Product Building and Team Leading.
-* 2+ years with [Agile](https://agilemanifesto.org/) and [Scrum](https://www.scrum.org/) .
-* 3+ years experience with Rust: [gRPC](https://grpc.io/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tools, [mobile](https://github.com/golang/mobile), [docker](https://www.docker.com/), [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* 6+ years experience in Web App and API Development, Product Building and Team Leading.
+* 5+ years with [Agile](https://agilemanifesto.org/) and [Scrum](https://www.scrum.org/) .
+* 5+ years experience with Rust: [gRPC](https://grpc.io/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tools, [mobile](https://github.com/golang/mobile), [docker](https://www.docker.com/), [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * experience with databases: [PostgreSQL](https://www.postgresql.org/), [Redis](https://memcached.org/) and [MongoDB](https://www.mongodb.com/).
 * 2+ years with testing, [TDD](https://en.wikipedia.org/wiki/Test-driven_development), 
 * some professional experience Python , React .
