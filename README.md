@@ -51,7 +51,7 @@ All those projects show some of my skills, coding standards and love for testing
 
 Do you think my skills could be useful for your company or clients? Can you offer me anything from the list above?
 
-Great! Please contact me via email [faizal98641@gmail.com](mailto:faizal98641@gmail.com)
+
 
 You might also try to check some of my online profiles:
   
