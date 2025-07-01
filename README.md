@@ -1,5 +1,5 @@
 
-# Faizal khan
+# Nayab khan
 
 **Rust Developer** , former Python Developer aspiring to become proper ***full stack blockchain developer***.
 
