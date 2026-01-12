@@ -1,62 +1,44 @@
+# Faizal Khan
 
-# Faizal khan
+**Senior Rust Engineer | WASM AI Practitioner | Blockchain Developer**
 
-**Rust Developer** , former Python Developer aspiring to become proper ***full stack blockchain developer***.
+I am a Senior Software Engineer with **6+ years of dedicated experience in the Rust ecosystem**. I specialize in building high-performance distributed backends, WASM-based AI implementations, and secure blockchain architecture.
 
-I'm looking for opportunities to widen my knowledge, experience and expertise in software development alongside with a steady source of income to pursue my dream of building apps for the future.
+I am an **immediate joiner** looking for opportunities to leverage my deep expertise in systems programming and concurrency to build the next generation of scalable applications.
 
-
-
-Also Dont look at my github contribution , i am employed person i rather spend time creating scripts and lib for my employers 
+> **Note on GitHub:** My primary impact is reflected in the proprietary systems, internal libraries, and high-performance tooling I develop for my employers. I prioritize delivering production value over public contribution metrics.
 
 ## What can I offer?
 
-* Open mind.
-* Dedication to learn.
-* 6+ years experience in Web App and API Development, Product Building and Team Leading.
-* 5+ years with [Agile](https://agilemanifesto.org/) and [Scrum](https://www.scrum.org/) .
-* 5+ years experience with Rust: [gRPC](https://grpc.io/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tools, [mobile](https://github.com/golang/mobile), [docker](https://www.docker.com/), [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* experience with databases: [PostgreSQL](https://www.postgresql.org/), [Redis](https://memcached.org/) and [MongoDB](https://www.mongodb.com/).
-* 2+ years with testing, [TDD](https://en.wikipedia.org/wiki/Test-driven_development), 
-* some professional experience Python , React .
-* Professional English with Indian accent
-* A hobbyist Gamer, biker, Traveller.
+* **6+ Years Rust Experience:** Deep mastery of `Tokio`, `Actix-web`, `Diesel`, and low-level concurrency.
+* **WASM & AI:** Specialized in deploying AI workloads to the edge and browser via WebAssembly.
+* **Blockchain & DeFi:** Professional experience with `Radix` and `Scrypto` for smart contract development.
+* **Distributed Systems:** Expert in `gRPC`, `REST`, `WebSockets`, `Kafka`, and `Micro-services`.
+* **Database Engineering:** Proficiency in `PostgreSQL`, `Redis`, and `MongoDB`.
+* **Leadership:** 5+ years of `Agile` and `Scrum` leadership, driving `TDD` and team excellence.
+* **Full-Stack Capability:** Professional experience with `Python (FastAPI)`, `React`, and `Docker/AWS` infrastructure.
+* **Personal:** Professional English, avid biker, traveler, and hobbyist gamer.
 
-### Skills and buzzwords
+## Skills and buzzwords
 
-Feel free to use below list to quickly check if I might have desired skills
-`Rust`, `Python`, `Distributed systems`, `micro-service`, `postgres-sql`, `mongo-db`, `kafka`, `redis`,`docker`, `React`, `Aws` , `Rest-apis` , `Grpc` , `Desktop-application-development` , `Web-sockets`,  `Aloglia` , `Actix-web` , `Diesel-orm`, `fast-api`, `sql-alcmehy`, `Tokio` ,`radix-blockchain` , `scrypto`
+`Rust`, `WASM`, `AI Implementation`, `Distributed systems`, `Micro-services`, `PostgreSQL`, `MongoDB`, `Kafka`, `Redis`, `Docker`, `React`, `AWS`, `Rest-apis`, `gRPC`, `Web-sockets`, `Actix-web`, `Diesel-orm`, `Fast-API`, `Tokio`, `Radix-blockchain`, `Scrypto`, `TDD`
 
-### Demo
+## Demo
 
-Most of my work belongs to my employers.  
-There are however some exceptions:
+Most of my work is proprietary and belongs to my employers. However, I maintain select open-source contributions:
 
-1. [Easy Algolia](https://crates.io/crates/EasyAlgolia) Is a crate for rust to easy access and insert data into algolia , its my 2 days works and i am planning to pick it up on comming vacations
-
-
-All those projects show some of my skills, coding standards and love for testing.
+1.  [**Easy Algolia**](https://crates.io/crates/EasyAlgolia): A high-level Rust crate for simplified data ingestion and search indexing. This project demonstrates my standards for API design, performance, and testing.
 
 ## What can you offer me?
 
-* steady income (to pay rent, read books and my hobbies)
-* opportunity to learn new programming language
-* opportunity to work and exchange knowledge with a team of specialists
-* opportunity to share knowledge via blogs and talks
-* experience in international product building 
-* experience with technologies you use
+* **Steady Income:** Fair compensation for senior-level technical expertise.
+* **Technical Growth:** Opportunity to work with WASM, AI, and Blockchain specialists.
+* **Knowledge Sharing:** A culture that supports technical blogging and community talks.
+* **International Scope:** Experience building products for a global market.
+* **High-Caliber Team:** A collaborative environment with expert engineers.
 
+## Interested? Send me a message!
 
-## Interested? Sent me a message!
+If you need a performance-focused Rust specialist who is ready to contribute from day one, please reach out.
 
-Do you think my skills could be useful for your company or clients? Can you offer me anything from the list above?
-
-
-
-You might also try to check some of my online profiles:
-  
-* [LinkedIn](https://www.linkedin.com/in/faizal-039b7324b/)
-
-
-
-
+* [**LinkedIn**](https://www.linkedin.com/in/faizal-039b7324b/)
